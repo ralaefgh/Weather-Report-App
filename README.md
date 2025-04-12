@@ -23,7 +23,7 @@ A simple and user-friendly web application to retrieve and display weather infor
 
 ## Usage
 
-1.  Open the html file in your web browser.
+1.  Open the html file in your web browser. (You can also test it at Github: https://ralaefgh.github.io/Weather-Report-App/)
 2.  Enter the name of a city in the input field.
 3.  Click the "Get Weather" button.
 4.  The weather information for the entered city, including the current weather and a 2-day forecast, will be displayed.
